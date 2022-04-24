@@ -6,7 +6,7 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 
 ## Technologies Used
 
-* POSTGRESQL
+* PostgreSQL
 * HTML
 * JavaScript
 * Maven
@@ -40,7 +40,11 @@ To-do list:
 
 ## Getting Started
    
-git clone https://github.com/211101-Java-React-Batch/Notes/tree/AndyYuen/project1
+* git clone https://github.com/Andy51011/ExpenseReimbursementSystem.git
+* open java project with your choice of IDE
+* start server
+* navigate to port 
+
 
 ## Usage
 
