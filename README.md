@@ -12,7 +12,6 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 * Maven
 * Git
 * Hibernate
-* AWS
 * EC2
 * AWS
 * S3
